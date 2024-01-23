@@ -1,0 +1,48 @@
+.container .row{
+    margin:0;
+    padding: 0;
+}
+.login{
+    background: rgb(243, 228, 243);
+    height:500px;
+    margin:0;
+    padding: 0;
+}
+.h1{
+    text-align: center;
+    font-family: 'Copperplate Gothic Bold ';
+    font-weight: 800;
+    padding-top: 10px;
+    border-bottom: 2px sloid;
+}
+.signup{
+    right:0;
+    background: linear-gradient(to left, #ab68ca, #de67a3);
+    height:500px;
+    margin:0;
+    padding: 0;
+    color:white
+}
+.loginI{
+    padding: 50px;
+}
+.btnLdiv{
+    align-items: center;
+    text-align: center;
+}
+.btn-login{
+    height: 50px;
+    width: 200px;
+    background:#ab68ca;
+    color: white;
+    font-weight: 800;
+    font-family: 'arial';
+    border-radius: 0px;
+}
+button:hover{
+    background: #744888;
+    color: aliceblue;
+}
+.err{
+    color: red;
+}

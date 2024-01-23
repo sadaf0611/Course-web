@@ -1,0 +1,28 @@
+.btnn{
+    background-color: rgba(73, 40, 62, 0.8);
+    color: white;;
+}
+.btnn:hover{
+    background-color: rgba(222, 155, 200, 0.8);
+}
+.imgg{
+    height: 50;
+    width:100;
+}
+.cardd{
+    height:515px;
+    align-items: center;
+}
+.cs{
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.divmrp{
+    text-align: center;
+}
+.mrp{
+    font-weight: 800;   
+}
+.desc{
+    text-align: justify;
+}
